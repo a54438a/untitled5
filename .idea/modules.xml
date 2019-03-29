@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo6/demo6.iml" filepath="$PROJECT_DIR$/demo6/demo6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaapolication10/javaapolication10.iml" filepath="$PROJECT_DIR$/javaapolication10/javaapolication10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2.iml" filepath="$PROJECT_DIR$/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web1/web1.iml" filepath="$PROJECT_DIR$/web1/web1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web3/web3.iml" filepath="$PROJECT_DIR$/web3/web3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web7/web7.iml" filepath="$PROJECT_DIR$/web7/web7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web8/web8.iml" filepath="$PROJECT_DIR$/web8/web8.iml" />
+    </modules>
+  </component>
+</project>
